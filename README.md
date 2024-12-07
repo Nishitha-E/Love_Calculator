@@ -1,7 +1,3 @@
-Here’s a sample description for your GitHub repository:
-
----
-
 # Love Calculator 💖
 
 This is a fun and interactive **Love Calculator** web application that calculates the "love percentage" between two individuals based on their names. It's a simple project built using HTML, CSS, and JavaScript, perfect for beginners exploring web development.
@@ -36,4 +32,6 @@ Love-Calculator/
 
 ## Demo 🎥
 ![Screenshot 2024-12-07 114445](https://github.com/user-attachments/assets/949a0c1d-79ed-4a67-8f0d-a50f1164219d)
+![Screenshot 2024-12-07 114427](https://github.com/user-attachments/assets/b6eb6140-60dd-4902-b49f-3067ace87695)
+![Screenshot 2024-12-07 114355](https://github.com/user-attachments/assets/dfa63f87-2b71-4b3c-b3e0-db0369dbb8fa)
 
